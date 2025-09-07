@@ -23,9 +23,9 @@ Elle supporte plusieurs services et formats (JSON, HTML) et est conçue pour êt
 
 > ⚠️ **Vos idées sont les bienvenues !**  
 >  
-> Si vous connaissez des **sites de blacklist** intéressants (IP, email, Discord, liens…), n’hésitez pas à partager vos suggestions !  
+> Si vous connaissez des **api de blacklist** (IP, email, Discord, liens…), n'hésitez pas à partager vos suggestions !  
 >  
-> Chaque contribution aide à rendre l’API plus complète et fiable.
+> Chaque contribution aide à rendre l'API plus complète et fiable.
 
 
 ---
