@@ -1,0 +1,21 @@
+{
+    "ip": [
+        {
+            "name": "BlacklistChecker.com IP",
+            "base_url": "https://api.blacklistchecker.com/check/%s",
+            "auth": {
+                "type": "credentials",
+                "username": "%_BLACKLIST_CHECKER_COM_%",
+                "password": ""
+            },
+            "type": "dict",
+            "scheme": "blacklists"
+        },
+        {
+            "name": "BlockList.de IP",
+            "base_url": "https://api.blocklist.de/api.php?ip=%s&start=1",
+            "type": "regexp",
+            "pattern": "(\\w+):\\s*(\\d+)"
+        }
+    ]
+}
