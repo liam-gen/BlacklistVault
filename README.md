@@ -19,7 +19,6 @@
 
 Elle supporte plusieurs services et formats (JSON, HTML) et est conçue pour être facilement extensible.
 
----
 
 > ⚠️ **Vos idées sont les bienvenues !**  
 >  
@@ -27,8 +26,6 @@ Elle supporte plusieurs services et formats (JSON, HTML) et est conçue pour êt
 >  
 > Chaque contribution aide à rendre l'API plus complète et fiable.
 
-
----
 
 ## Fonctionnalités
 
